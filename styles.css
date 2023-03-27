@@ -1,0 +1,35 @@
+body{
+   
+    background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+     text-align: center;
+     /* border: 5px solid; */
+     display: block;
+     margin-top: 150px;
+     height: 400px;
+     width: 600px;
+     margin-left: 30%;
+     margin-right: 30%;
+}
+
+.container{
+    background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+    box-shadow: 0;
+}
+
+input[type=button]
+{
+    width: 100%;
+    background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+    font-weight: bolder;
+}
+input[type=text]{
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+h1{
+    font-weight: bolder;
+   color:aqua;
+   margin-top: 25px;
+   font-family: 'Akaya Kanadaka', cursive;
+}
